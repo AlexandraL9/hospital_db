@@ -1,0 +1,3 @@
+create database hospital_db_alexandra_lima;
+
+use hospital_db_alexandra_lima;
